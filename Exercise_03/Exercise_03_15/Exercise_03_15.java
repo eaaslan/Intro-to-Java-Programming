@@ -15,7 +15,7 @@ public class Exercise_03_15 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 
-		// Generate a random three-digit number
+		// Generate a random three-digit number // its not work everytime
 		int lottery = (int)(Math.random() * 1000);
 
 		// Prompt the user to enter a three-digit number
